@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="[banner-devmedia]" alt="DevMedia Banner"/>
+<img width="100%" src="https://github.com/user-attachments/assets/e2a96bbd-c88d-4801-bd09-ccd4ccc540e8" alt="DevMedia Banner"/>
 
 <br><br>
 
