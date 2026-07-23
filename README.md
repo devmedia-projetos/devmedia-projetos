@@ -1,3 +1,4 @@
+<img width="470" height="107" alt="logo_new" src="https://github.com/user-attachments/assets/cf4c462c-75f6-402e-9ae0-0f1fb2afa528" />
 # DevMedia
 
 A escola de programação com a melhor didática do Brasil.
